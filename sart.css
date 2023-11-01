@@ -1,0 +1,212 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    width: 100%;
+   
+}
+.ptag p {
+    margin-left: 85px;
+}
+.spanican {
+    font-size: 23px;
+}
+i.fa-solid.fa-laptop {
+    margin: 0px 17px;
+}
+i.fa-solid.fa-mobile {
+    margin: 0px 17px;
+}
+.spantag {
+    margin: 0px 53px;
+}
+i.fa-solid.fa-headphones {
+    margin: 0px 10px;
+    font-size: 17px;
+}
+button.btnbuttan {
+    background: blue;
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+.borderline{
+    border: 1px solid red;
+}
+.headre{
+    background-color: #212529;
+    color: white;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   padding: 2rem;
+}
+.ulli {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 31px;
+    margin: 20px;
+    margin-right: 82px;
+}
+.center {
+    text-align: center;
+    margin: 50px;
+}
+.btn button{
+    padding: 10px 25px;
+    color: white;
+    background-color: #0d6efd;
+    border-radius: 10px;
+    margin: 10px;
+}
+button.btntwo {
+    background: none;
+    border: 1px solid;
+}
+.container.content {
+    margin: 60px 77px;
+}
+i.fa-brands.fa-hive {
+    font-size: 37px;
+    border: 1px solid black;
+    width: 66px;
+    padding: 10px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+i.fa-regular.fa-hospital {
+    font-size: 37px;
+    border: 1px solid black;
+    width: 66px;
+    padding: 10px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+i.fa-solid.fa-user-lock {
+    font-size: 37px;
+    border: 1px solid black;
+    width: 66px;
+    padding: 10px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+.tag a{
+    text-decoration: none;
+}
+.grow{
+    background-color: #f8f9fa;
+}
+.phtag{
+    text-align: center;
+}
+.box {
+    border: 1px solid;
+    text-align: center;
+    background: white;
+    box-shadow: 0px 10px 10px;
+    width: 330px;  
+    padding: 30px 0px
+}
+.contaner.content-one {
+    margin: 40px 100px;
+}
+button.btn.btn-light {
+    border: 1px solid;
+    padding: 7px 30px;
+    margin: 15px;
+}
+button.btn.btn-primary {
+    border: 1px solid;
+    padding: 7px 30px;
+    margin: 15px;
+
+}
+.costomer{
+    text-align: center;
+margin-top: 40px;
+}
+.tittle_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foorer {
+    text-align: center;
+    border: 1px solid;
+    margin: 40px 340px;
+    padding: 20px;
+    border-radius: 10px;
+}
+i.fa-regular.fa-message {
+    border: 1px solid;
+    padding: 13px;
+    border-radius: 10px;
+    background: rgb(13 110 253);
+    color: white;
+}
+ span a {
+    margin-right: 114px;
+    text-decoration: none;
+    color: #00000066;
+}
+.footer-center {
+    height: 120vh;
+    background-color: #f8f9fa;
+}
+.centertwo {
+    text-align: center;
+    padding: 30px;
+}
+i.fa-solid.fa-envelope {
+    border: 1px solid;
+    padding: 19px;
+    border-radius: 6px;
+    background: rgb(13 110 253);
+    color: white;
+}
+input[type="text"] {
+    text-align: start;
+    padding-right: 132px;
+    padding-top: 3px;
+    margin-top: 15px;
+}
+.form-colum {
+    text-align: center;
+}
+button.btn-primary {
+    padding: 5px 135px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.footer_end{
+    background-color: #212529;
+    height: 150px;
+}
+
+.footer_end h1 {
+    text-align: center;
+    color: white;
+    padding: 60px;
+    font-size: 16px;
+}
+
+
+
+
+
+
